@@ -17,9 +17,13 @@ Navigate to the project directory:
 
 bash
 Copy code
+```bash
 cd your_repository
 Run the Python script:
-
+```
 bash
 Copy code
+```
+```bash
 python deploy_apache_container.py
+```
