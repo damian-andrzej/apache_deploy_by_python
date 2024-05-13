@@ -20,8 +20,7 @@ Copy code
 ```bash
 cd your_repository
 Run the Python script:
-```
-bash
+
 Copy code
 ```
 ```bash
