@@ -1,6 +1,6 @@
 # Deploy Apache Container to Port 8080 using Python
 
-This Python script demonstrates how to deploy an Apache container to port 8080 using Docker.
+This Python script demonstrates how to deploy an Apache container to port 8080 using Docker
 
 ## Prerequisites
 
